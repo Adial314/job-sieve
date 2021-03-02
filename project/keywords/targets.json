@@ -1,0 +1,144 @@
+{
+    "entries": [
+        {
+            "name": "CompTia A+",
+            "targets": ["A+", "A +", "A Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia Network+",
+            "targets": ["Network+", "Network +", "Network Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia Security+",
+            "targets": ["Security+", "Security +", "Security Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia Cloud+",
+            "targets": ["Cloud+", "Cloud +", "Cloud Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia Linux+",
+            "targets": ["Linux+", "Linux +", "Linux Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia Server+",
+            "targets": ["Server+", "Server +", "Server Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia CySA+",
+            "targets": ["Cybersecurity Analyst", "CySA", "CSA"],
+            "count": 0
+        },
+        {
+            "name": "CompTia CASP+",
+            "targets": ["CASP+", "CASP +", "CASP Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia PenTest+",
+            "targets": ["PenTest+", "PenTest +", "PenTest Plus"],
+            "count": 0
+        },
+        {
+            "name": "CompTia Project+",
+            "targets": ["Project+", "Project +", "Project Plus"],
+            "count": 0
+        },
+        {
+            "name": "AWS Certification",
+            "targets": ["Amazon Web Services Certification"],
+            "count": 0
+        },
+        {
+            "name": "AWS Web Services",
+            "targets": ["Amazon Web Services Certification"],
+            "count": 0
+        },
+        {
+            "name": "ISFCE Certified Computer Examiner",
+            "targets": ["Certified Computer Examiner", "CCE"],
+            "count": 0
+        },
+        {
+            "name": "ISACA CISA",
+            "targets": ["Certified Information Systems Auditor", "CISA"],
+            "count": 0
+        },
+        {
+            "name": "ISACA CISM",
+            "targets": ["Certified Information Security Manager", "CISM"],
+            "count": 0
+        },
+        {
+            "name": "ISC2 CISSP",
+            "targets": ["Certified Information Systems Security Professional", "CISSP"],
+            "count": 0
+        },
+        {
+            "name": "IEEE Certified Software Development Professional",
+            "targets": ["Certified Software Developer Program", "CSDP"],
+            "count": 0
+        },
+        {
+            "name": "ISTQB CSTE",
+            "targets": ["Certified Software Tester", "CSTE"],
+            "count": 0
+        },
+        {
+            "name": "Cisco CCT",
+            "targets": ["Cisco Certified Technicians", "CCT"],
+            "count": 0
+        },
+        {
+            "name": "Cisco CCNT",
+            "targets": ["Cisco Certified Entry Networking Technician", "CCNT"],
+            "count": 0
+        },
+        {
+            "name": "Cisco CCNA",
+            "targets": ["Cisco Certified Network Associate", "CCNA"],
+            "count": 0
+        },
+        {
+            "name": "Cisco CCNP",
+            "targets": ["Cisco Certified Network Professional Enterprise", "CCNP"],
+            "count": 0
+        },
+        {
+            "name": "Cisco CCAr",
+            "targets": ["Cisco Certified Architect", "CCAr"],
+            "count": 0
+        },
+        {
+            "name": "Microsoft MTA",
+            "targets": ["Microsoft Technology Associate", "MTA"],
+            "count": 0
+        },
+        {
+            "name": "Microsoft MCSA",
+            "targets": ["Microsoft Certified Solutions Associate", "MCSA"],
+            "count": 0
+        },
+        {
+            "name": "Microsoft MCSE",
+            "targets": ["Microsoft Certified Solutions Expert", "MCSE"],
+            "count": 0
+        },
+        {
+            "name": "RHEL Certified System Administrator",
+            "targets": ["Red Hat Certified System Administrator", "RHCSA"],
+            "count": 0
+        },
+        {
+            "name": "Scrum",
+            "targets": ["Scrum Certification", "Scrum"],
+            "count": 0
+        }
+    ]
+}
